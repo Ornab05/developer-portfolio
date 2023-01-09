@@ -92,11 +92,12 @@ main{
 .section-title{
     text-align: center;
     color: #181818;
-    margin-bottom: 0px;
+    margin-bottom: unset;
 }
 .section-description{
     display: flex;
     color: #757575;
+    margin-top: unset;
     
 }
 
